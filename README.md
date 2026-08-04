@@ -35,6 +35,3 @@ This dashboard analyzes customer churn behavior to identify the factors that inf
 - DAX
 - Data Modeling
 
-## 📷 Data Model
-
-![Data Model](Data_Model.png)
