@@ -37,4 +37,4 @@ This dashboard analyzes customer churn behavior to identify the factors that inf
 
 ## 📷 Data Model
 
-![Data Model](Data_model.png)
+![Data Model](Data_Model.png)
